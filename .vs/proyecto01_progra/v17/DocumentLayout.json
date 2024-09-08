@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\proyecto01_progra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:proyecto01_progra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Banco.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Banco.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Banco.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Banco.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Automovil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Automovil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Automovil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Automovil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Hipotecario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Hipotecario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Hipotecario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Hipotecario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Personal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Personal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Personal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Personal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Prestamo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Prestamo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Prestamo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC7DB4C-994F-4B0C-9B97-CE6FB3C762AA}|proyecto01_progra.vcxproj|solutionrelative:Prestamo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cpp",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Banco.cpp",
+              "RelativeDocumentMoniker": "Banco.cpp",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Banco.cpp",
+              "RelativeToolTip": "Banco.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T23:09:32.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Banco.h",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Banco.h",
+              "RelativeDocumentMoniker": "Banco.h",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Banco.h",
+              "RelativeToolTip": "Banco.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T23:09:08.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Automovil.cpp",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Automovil.cpp",
+              "RelativeDocumentMoniker": "Automovil.cpp",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Automovil.cpp",
+              "RelativeToolTip": "Automovil.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T23:08:26.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Automovil.h",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Automovil.h",
+              "RelativeDocumentMoniker": "Automovil.h",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Automovil.h*",
+              "RelativeToolTip": "Automovil.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T23:08:11.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hipotecario.cpp",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Hipotecario.cpp",
+              "RelativeDocumentMoniker": "Hipotecario.cpp",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Hipotecario.cpp",
+              "RelativeToolTip": "Hipotecario.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T23:07:39.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hipotecario.h",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Hipotecario.h",
+              "RelativeDocumentMoniker": "Hipotecario.h",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Hipotecario.h",
+              "RelativeToolTip": "Hipotecario.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T23:06:49.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Personal.h",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Personal.h",
+              "RelativeDocumentMoniker": "Personal.h",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Personal.h",
+              "RelativeToolTip": "Personal.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T23:01:42.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Personal.cpp",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Personal.cpp",
+              "RelativeDocumentMoniker": "Personal.cpp",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Personal.cpp",
+              "RelativeToolTip": "Personal.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T23:05:52.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proyecto01_progra.cpp",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\proyecto01_progra.cpp",
+              "RelativeDocumentMoniker": "proyecto01_progra.cpp",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\proyecto01_progra.cpp",
+              "RelativeToolTip": "proyecto01_progra.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAcwG8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T22:59:54.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Prestamo.cpp",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Prestamo.cpp",
+              "RelativeDocumentMoniker": "Prestamo.cpp",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Prestamo.cpp",
+              "RelativeToolTip": "Prestamo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T23:03:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prestamo.h",
+              "DocumentMoniker": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Prestamo.h",
+              "RelativeDocumentMoniker": "Prestamo.h",
+              "ToolTip": "C:\\Users\\midal\\source\\repos\\proyecto01_progra\\Prestamo.h",
+              "RelativeToolTip": "Prestamo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T23:00:48.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
