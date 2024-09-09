@@ -1,6 +1,7 @@
 #include "Automovil.h"
 #include <iostream>
 #include <string>
+#include <cmath>
 using namespace std;
 
 Automovil::Automovil(double monto, double tasaInteres, int plazo) : Prestamo(monto, tasaInteres, plazo) {}
@@ -8,7 +9,7 @@ Automovil::Automovil(double monto, double tasaInteres, int plazo) : Prestamo(mon
 double Automovil::calcularInteres()
 {
     double i = tasaInteres / 12 / 100;
-    return (monto * i) / (1 - pow(1 + i, -plazo)); //POW calcula potencias
+    return (monto * i) / (1 - pow(1 + i, -plazo));
 }
 
 void Automovil::mostrarInformacion()
